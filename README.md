@@ -87,9 +87,9 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+nfldyprdn.com
 
-Project Link: [https://github.com/your-username/budget-tracker-app](https://github.com/your-username/budget-tracker-app)
+Project Link: [Offline budget tracker](https://github.com/askpradana/offline_budget)
 
 ## Acknowledgements
 
